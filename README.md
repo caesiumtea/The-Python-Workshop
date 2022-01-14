@@ -1,9 +1,6 @@
 # The Python Workshop
-[![GitHub issues](https://img.shields.io/github/issues/PacktWorkshops/The-Python-Workshop.svg)](https://github.com/PacktWorkshops/The-Python-Workshop/issues)
-[![GitHub forks](https://img.shields.io/github/forks/PacktWorkshops/The-Python-Workshop.svg)](https://github.com/PacktWorkshops/The-Python-Workshop/network)
-[![GitHub stars](https://img.shields.io/github/stars/PacktWorkshops/The-Python-Workshop.svg)](https://github.com/PacktWorkshops/The-Python-Workshop/stargazers)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/PacktWorkshops/The-Python-Workshop/pulls)
 [![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)](https://www.python.org/downloads/)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/caesiumtea/The-Python-Workshop/HEAD)
 
 This is the repository for [The Python Workshop](https://www.amazon.com/Python-Workshop-Interactive-Approach-Learning/dp/1839218851/ref=sr_1_1?dchild=1&keywords=The%20Python%20Workshop&qid=1611065248&s=books&sr=1-1&utm_source=github&utm_medium=repository&utm_campaign=9781839218859&utm_term=Python&utm_content=The%20Python%20Workshop), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the course from start to finish.
 
